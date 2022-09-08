@@ -5,7 +5,7 @@
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/dlx-luttapi/new1",
+	"repository": "https://github.com/dlx-luttapi/Archuzz-md",
 	"stack": "container",
 	"env": {
 		"ALWAYS_ONLINE": {
@@ -36,7 +36,7 @@
 		"STICKER_PACKNAME": {
 			"description": "sticker pack info",
 			"required": true,
-			"value": "❤️,LyFE"
+			"value": "❤️,Archuzz"
 		},
 		"HEROKU_APP_NAME": {
 			"description": "Heroku app name, same as above entered",
