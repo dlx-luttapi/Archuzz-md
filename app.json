@@ -17,7 +17,12 @@
 			"description": "Show whatsapp msgs in log",
 			"required": false,
 			"value": "false"
-		},
+                }, 
+	        "WORKTYPE": {
+                            "description": "change the Work Type (public or private)",
+                            "required": true,
+                            "value": "private"
+         	},
 		"SUDO": {
 			"description": "admin",
 			"required": true,
