@@ -21,7 +21,7 @@
 	        "WORKTYPE": {
                             "description": "change the Work Type (public or private)",
                             "required": true,
-                            "value": "private"
+                            "value": "public"
          	},
 		"SUDO": {
 			"description": "admin",
